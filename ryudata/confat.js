@@ -22,7 +22,7 @@ exports.fiturError = () => {
 
 // Message Saat Bukan Link Yang Dituju
 exports.notLink = () => {
-    return `⚠️ Itu Bukan Linknya Bambank`
+    return `⚠️ Kesalahan Link`
 }
 
 // Message Sukses Menambahkan User Ke Grup
