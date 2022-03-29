@@ -1,45 +1,25 @@
 <p align="center">
-<img src="https://telegra.ph/file/0c948e309cc07fb7f3cfa.jpg" alt="RYUBOTZ MULTI DEVICE" width="500"/>
+<img src="https://telegra.ph/file/feabd7327d93af4a46204.jpg" alt="XtrailzBotMD" width="500"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="RYUBOTZ MULTI DEVICE" src="https://img.shields.io/badge/RYUBOTZ MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="XtrailzBot MD" src="https://img.shields.io/badge/XtrailzBotMD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DikaArdnt/Hisoka-Morou"><img title="AUTHOR" src="https://img.shields.io/badge/Author-DIKA%20ARDNT-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/R-TEAM94/RYUBOTZMD"><img title="RECODE" src="https://img.shields.io/badge/Recode-RYUUKA%20TEAM-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/R-TEAM94/RYUBOTZMD"><img title="Followers" src="https://img.shields.io/github/followers/FBOTZ-YT?color=blue&style=flat-square"></a>
-<a href="https://github.com/R-TEAM94/RYUBOTZMD"><img title="Stars" src="https://img.shields.io/github/stars/R-TEAM94/RYUBOTZMD?color=red&style=flat-square"></a>
-<a href="https://github.com/R-TEAM94/RYUBOTZMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/R-TEAM94/RYUBOTZMD?color=red&style=flat-square"></a>
-<a href="https://github.com/R-TEAM94/RYUBOTZMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/R-TEAM94/RYUBOTZMD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/DikaArdnt/Hisoka-Morou"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a><br>
+<a href="https://github.com/Xtrailz/xtrailzbot3"><img title="Recode" src="https://img.shields.io/badge/Recode-Xtrailz-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/R-TEAM94/RYUBOTZMD)
-
----
-
-## For Your Info ☕
-This Is A WhatsApp Bot With Baileys From [`@adiwajshing/baileys-md`](https://github.com/adiwajshing/baileys/tree/multi-device) And Edited By [`Ryuuka Team`](https://github.com/R-TEAM94/RYUBOTZMD) You Can Get The Edited Script In Channel [`Ryuuka Botz`](https://youtube.com/channel/UCjxavxEQa1Wd9A4J9tOmATA)
-
-## Connect With Me 🌱
+## Connect With Me 
 <p align="center">
-  <a href="https://instagram.com/fandyyy._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/message/FDEA65XQNZMAF1"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://chat.whatsapp.com/BhOYdoWNRFC4n4bdsEexlV"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://youtube.com/channel/UCjxavxEQa1Wd9A4J9tOmATA"><img src="https://img.shields.io/badge/YouTube-Ryuuka Botz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/RyuukaBotz" /><br>
-  <a name=Ryuuka Botz&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/R-TEAM94"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCjxavxEQa1Wd9A4J9tOmATA"><img src="https://img.shields.io/youtube/channel/subscribers/RyuukaBotz?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=R-TEAM94&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=FBOTZ-YT&color=blue&style=flat-square&label=Profile+View"></a>
+  <a href="https://linktr.ee/hillalzian"><img src="https://img.shields.io/badge/Linktree-Blue?style=for-the-badge&logo=Linktree&logoColor=white"/>
 </p>
 
 ## Support Me
-* [`Saweria`](https://saweria.co/Fandyy)
+* Gopay, Dana, ShopeePay > 089678423699
 
 Thanks For Donate
 
@@ -48,8 +28,8 @@ Thanks For Donate
 ---|---
 [Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
 Owner Hisoka-Morou | Constributor |
-<a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![ZEEONE OFC](https://github.com/zeeone-ofc.png?size=100)](https://github.com/zeeone-ofc) 
-[Mhankbarbar](https://github.com/MhankBarBar)  | [Zeeone Ofc](https://github.com/zeeone-ofc)
+<a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![ZEEONE OFC](https://github.com/zeeoneofc.png?size=100)](https://github.com/zeeoneofc) 
+[Mhankbarbar](https://github.com/MhankBarBar)  | [Zeeone Ofc](https://github.com/zeeoneofc)
 Constributor | Owner of Alphabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FBOTZ YT](https://github.com/FBOTZ-YT.png?size=100)](http://github.com/FBOTZ-YT) 
 [Adiwajshing](https://github.com/adiwajshing) | [FBOTZ YT](https://github.com/FBOTZ-YT)
@@ -57,6 +37,9 @@ Owner of Baileys | Team of Ryubotz |
 <a href="https://github.com/xfar05"><img src="https://github.com/xfar05.png?size=100" width="100" height="100"></a> | <a href="https://github.com/YdzAja"><img src="https://github.com/YdzAja.png?size=100" width="100" height="100"></a>
 [X-Far](https://github.com/xfar05) | [Ryuuka Botz](https://github.com/YdzAja)
 Owner of Xfarr-api | Owner of Ryubotz |
+<a href="https://github.com/Xtrailz"><img src="https://github.com/Xtrailz.png?size=100" width="100" height="100"></a> |
+[Xtrailz](https://github.com/Xtrailz) |
+Owner of this Bot |
 
 ## License
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
@@ -69,14 +52,16 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 
 ```bash
-git clone https://github.com/R-TEAM94/RYUBOTZMD
-cd RyuBotzMD
+git clone https://github.com/Xtrailz/Xtrailz-Bot-MD-V1.1
+cd (Nama folder file Bot)
 npm install
 ```
 
 
 ## FOR HEROKU USER
-# Install Buildpack
+# Tekan Tombol Dibawah
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Xtrailz/Xtrailz-Bot-MD-V1.1)
+# Kemudian Install Buildpack
 - heroku/nodejs
 - https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 - https://github.com/clhuang/heroku-buildpack-webp-binaries.git
@@ -89,7 +74,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/R-TEAM94/RYUBOTZMD
+git clone https://github.com/FBOTZ-YT/RyuBotzMD
 cd RyuBotzMD
 npm install
 ```
@@ -103,4 +88,4 @@ $ node .
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner And More On [`settings.js`](https://github.com/R-TEAM94/RYUBOTZMD/blob/master/settings.js)
+Editing Number Owner And More On [`setting.json`](https://github.com/Xtrailz/xtrailzbot3/blob/master/setting.json)
