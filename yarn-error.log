@@ -8,13 +8,13 @@ Yarn version:
   1.22.17
 
 Node version: 
-  17.7.1
+  17.6.0
 
 Platform: 
   android arm64
 
 Trace: 
-  Error: EPERM: operation not permitted, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/Youtube/RYUMD/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
+  Error: EPERM: operation not permitted, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/RYUBOTZMD/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
 
 npm manifest: 
   {
@@ -42,6 +42,7 @@ npm manifest:
       "@adiwajshing/keyed-db": "^0.2.4",
       "awesome-phonenumber": "^2.64.0",
       "axios": "^0.24.0",
+      "cfonts": "^2.9.1",
       "chalk": "^4.1.2",
       "cheerio": "^1.0.0-rc.10",
       "child_process": "^1.0.2",

@@ -1,1 +1,59 @@
-{}
+{
+  "sticker": {},
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "others": {
+    "absen": []
+  },
+  "users": {
+    "6289678423699@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6282232559110@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "6289678423699@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antiwame": false,
+      "antivirtex": false,
+      "nsfw": false
+    },
+    "6282232559110@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "antiwame": false,
+      "antivirtex": false,
+      "nsfw": false
+    },
+    "628998907414-1603460303@g.us": {
+      "mute": false,
+      "antilink": false,
+      "antiwame": false,
+      "antivirtex": false,
+      "nsfw": false
+    }
+  },
+  "settings": {
+    "6281290413140@s.whatsapp.net": {
+      "anticall": false
+    }
+  }
+}
