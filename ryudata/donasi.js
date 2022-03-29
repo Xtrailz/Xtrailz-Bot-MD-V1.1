@@ -1,19 +1,11 @@
 //EDIT SESUKA KALIAN 😉
 
-// UCAPAN WELCOME
+// UCAPAN DONASI
 exports.donasi = () => {
-	return`*TERIMA KASIH SUDAH MAU DONASI 🤗*
-
-*Q.S Az-Zalzalah Ayat 7 :*
-
-فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ
-
-Artinya : Maka barangsiapa 
-mengerjakan kebaikan seberat
-zarrah, niscaya dia akan melihat 
-(balasan)nya,
-
+	return`*TERIMA KASIH SUDAH MAU DONASI *
+_Berapapun donasi kalian akan sangat membantu bot ini agar tetap berjalan._
+*Thank you very much!.*
 contact owner :
-wa.me/6285609233482 (Owner)
+wa.me/6289678423699 (Owner)
 `
 }
